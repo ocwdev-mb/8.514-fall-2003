@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ]
+  ],
+  "legacy_uid": "1deef1bb-0395-392d-089c-134c919568af",
+  "instructors": {
+    "content": [
+      "f3afd059-c31d-efeb-0a87-8a5928bad494"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5be6c96b-00e7-d62b-2b32-4d5e4131f9b2",
+    "website": "8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003"
+  },
+  "course_title": "Strongly Correlated Systems in Condensed Matter Physics",
+  "course_description": "In this course we shall develop theoretical methods suitable for the description of the many-body phenomena, such as Hamiltonian second-quantized operator formalism, Greens functions, path integral, functional integral, and the quantum kinetic equation. The concepts to be introduced include, but are not limited to, the random phase approximation, the mean field theory (aka saddle-point, or semiclassical approximation), the tunneling dynamics in imaginary time, instantons, Berry phase, coherent state path integral, renormalization group.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.514",
+  "course_image_thumbnail": {
+    "content": "d7e96d3a-a3b4-f754-f2ac-ec826d3e81c6",
+    "website": "8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "2333295b-0260-4e01-984c-cb9dabf4f756",
+  "site_short_id": "8.514-fall-2003",
+  "title": "Course Metadata"
+}
